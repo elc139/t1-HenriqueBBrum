@@ -8,7 +8,7 @@ Nome: Henrique Becker Brum
 | Nome/Título                                               |      Piz Daint        |   Acer Spin 5     |
 | Imagem (foto, diagrama, screenshot, etc.)                 |<img src= "https://www.cscs.ch/fileadmin/_processed_/c/3/csm_Piz_Daint_upgrade_26.04.2017_003_ec93735bd1.jpg" width="90"> | <img src="https://www.acronsoft.com.br/wp-content/uploads/2018/08/Spin5_01.jpg" width="90">|
 | Classificação de Flynn                                    |         MIMD               |     MIMD            |
-| Memória: compartilhada, distribuída ou ambas?             |          Ambas (Xeon - Compartilhada, Cray XC50 - distribuida)            |     Compartilhada            |
+| Memória: compartilhada, distribuída ou ambas?             |          Ambas (Xeon - Compartilhada, Cray XC50 - Distribuida)            |     Compartilhada            |
 | Número total de núcleos de processamento                  |       387,872           |     4    |
 | Fabricante e modelo do(s) processador(es)                 |       Xeon E5-2690v3 12C 2.6GHz                |     Intel Core i7-8550U CPU 1.8 GHz   |
 | Frequência do(s) processador(es)                          |          2.6GHz             |     1.80 GHz - 4.00 GHz            |
