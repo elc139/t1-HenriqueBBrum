@@ -14,7 +14,7 @@ Nome: Henrique Becker Brum
 | Frequência do(s) processador(es)                          |          2.6GHz             |     1.80 GHz - 4.00 GHz            |
 | Memória total                                             |        365,056 GB         |     8 GB        |
 | Tipo(s) de interconexão entre os núcleos/processadores    |        Aries interconnect               |     8 MB Intel® Smart Cache            |
-| Desempenho Linpack                                        |      21,230.00 TFlop/s         |    88.8277 GFlop/s             |
+| Desempenho Linpack                                        |      21,230.00 TFlop/s         |    88.8277 GFlop/s  (N° operações 20000)           |
 
 ### Referências
 - Intel. Intel® Core™ i7-8550U Processor. https://ark.intel.com/content/www/us/en/ark/products/122589/intel-core-i7-8550u-processor-8m-cache-up-to-4-00-ghz.html
@@ -22,3 +22,4 @@ Nome: Henrique Becker Brum
 - Cray Private. Cray XC Series Application Programming and Optimization Student Guide. https://www.nersc.gov/assets/Uploads/TR-CPO-NERSC-20190211.pdf.
 - Tarek El-Ghazawi.  Introduction to High-Performance Computing. https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/528/files/2017/05/lecture2-1a7xcby.pdf
 - Cray Private.  Cray® XC50™ Supercomputer.  https://www.cray.com/sites/default/files/Cray-XC50-Product-Brief.pdf
+- Intel. Intel® Math Kernel Library (Intel® MKL) Benchmarks Suite . https://software.intel.com/en-us/articles/intel-mkl-benchmarks-suite (Site do Linpack usado)
